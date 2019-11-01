@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">i3c網路商店</string>
+    <string name="productName">產品名稱：</string>
+    <string name="productPrice">產品售價：</string>
+    <string name="productIntro">產品簡介：</string>
+    <string name="buttonClick">了解更多</string>
+    <string name="buttonBuy">購買</string>
+    <string name="buttonBack">返回</string>
+
+    <string name="productName1">3D Xpoint NVMe SSD PCI-E介面</string>
+    <string name="productName2">3D Xpoint NVMe SSD 2.5吋U.2介面</string>
+    <string name="productName3">NVMe PCI-E SSD PCI-E介面</string>
+    <string name="productName4">NVMe PCI-E SSD M.2介面</string>
+    <string name="productName5">SATA SSD M.2介面</string>
+    <string name="productName6">SATA SSD 2.5吋 SATA介面</string>
+    <string name="productName7">3D Xpoint NVMe 磁碟加速器</string>
+    <string name="productName8">SATA SSHD 3.5吋 SATA介面</string>
+    <string name="productName9">SATA SSHD 2.5吋 SATA介面</string>
+    <string name="productName10">SATA 企業級儲存碟 3.5吋 SATA介面</string>
+    <string name="productName11">SATA 監控專用碟 3.5吋 SATA介面</string>
+    <string name="productName12">SATA NAS專用碟 3.5吋 SATA介面</string>
+    <string name="productName13">SATA HDD 3.5吋 SATA介面</string>
+    <string name="productName14">SATA HDD 2.5吋 SATA介面</string>
+
+    <string name="productPrice1">同容量來看非常高貴</string>
+    <string name="productPrice2">同容量來看非常高貴</string>
+    <string name="productPrice3">價位適中，保固較長者較貴</string>
+    <string name="productPrice4">價位適中，保固較長者較貴</string>
+    <string name="productPrice5">價位平價，保固較長者較貴</string>
+    <string name="productPrice6">價位平價，保固較長者較貴</string>
+    <string name="productPrice7">僅在搭配大容量傳統硬碟時才具有較高的性價比</string>
+    <string name="productPrice8">同容量來看價位平價，較入門款HDD稍貴</string>
+    <string name="productPrice9">同容量來看價位平價，較入門款HDD稍貴</string>
+    <string name="productPrice10">為同容量中HDD/SSHD產品中價位最高者，原則上皆為5年保固</string>
+    <string name="productPrice11">大部分產品原廠提供3年保固，少數產品有提供5年保固</string>
+    <string name="productPrice12">大部分產品原廠提供3年保固，少數產品有提供5年保固</string>
+    <string name="productPrice13">同容量來看價位低廉，保固較長者較貴</string>
+    <string name="productPrice14">同容量來看價位低廉，保固較長者較貴</string>
+
+    <string name="productIntro1">採用最新技術，超低延遲、超高讀寫耐性！\n採用PCI-E介面，相容性、散熱能力有保障！</string>
+    <string name="productIntro2">採用最新技術，超低延遲、超高讀寫耐性！\n2.5吋大小不占空間、散熱能力有保障！</string>
+    <string name="productIntro3">採用NVMe協定，最新產品可支援到PCI-E Gen 4，循序讀寫突破4000 MB/s大關不是夢！\n採用PCI-E介面，相容性、散熱能力有保障！</string>
+    <string name="productIntro4">採用NVMe協定，最新產品可支援到PCI-E Gen 4，循序讀寫突破4000 MB/s大關不是夢！\n採用M.2介面，小巧不占空間！</string>
+    <string name="productIntro5">採用SATA協定，穩定而泛用的好選擇！\n採用M.2介面，小巧不占空間，外接、內用兩相宜！</string>
+    <string name="productIntro6">採用SATA協定，穩定而泛用的好選擇！\n採用2.5吋SATA介面，是您家中舊電腦的升級首選！</string>
+    <string name="productIntro7">採用最新技術，超低延遲、超高讀寫耐性！\n採用M.2介面，小巧不占空間</string>
+    <string name="productIntro8">採用SATA協定，穩定而泛用的好選擇！\n適合預算較低，希望能提升電腦的程式啟動、開關機速度但又有一定資料需要儲存的使用者！</string>
+    <string name="productIntro9">採用SATA協定，穩定而泛用的好選擇！\n適合預算較低，希望能提升電腦的程式啟動、開關機速度但又有一定資料需要儲存的使用者！\n只能安裝1個儲存裝置的筆電升級好夥伴！</string>
+    <string name="productIntro10">採用SATA協定，穩定而泛用的好選擇！\n支援Raid機能！\n設計規範支援 7 X 24 使用！\n架構純粹，資料救援成功率高！</string>
+    <string name="productIntro11">採用SATA協定，穩定而泛用的好選擇！\n設計規範支援 7 X 24 使用！\n支援監控設備的相關指令與機能！\n架構純粹，資料救援成功率高！</string>
+    <string name="productIntro12">採用SATA協定，穩定而泛用的好選擇！\n支援Raid機能！\n支援多硬碟的使用環境！\n設計規範支援 7 X 24 使用！\n架構純粹，資料救援成功率高！</string>
+    <string name="productIntro13">採用SATA協定，穩定而泛用的好選擇！\n同預算下能提供最大的可用容量！\n架構純粹，資料救援成功率高！</string>
+    <string name="productIntro14">採用SATA協定，穩定而泛用的好選擇！\n同預算下能提供最大的可用容量！\n架構純粹，資料救援成功率高！</string>
+</resources>
